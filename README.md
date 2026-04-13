@@ -81,8 +81,8 @@ This project helped us understand the complete workflow of web development, from
 
 ---
 
-## 🔗 Repository Link
+## 🔗 Wesbite Link
 
-https://github.com/Ankitkumar-0005/2502031830005
+https://ankitkumar-0005.github.io/2502031830005
 
 ---
